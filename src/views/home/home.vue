@@ -7,7 +7,7 @@
     export default {
         data() {
             return {
-                msg:'这是home组件'
+                msg:'这是home组11111111件'
             }
         }
     }
